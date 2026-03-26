@@ -22,17 +22,26 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1492" height="799" alt="image" src="https://github.com/user-attachments/assets/f77c0757-5a8c-422c-82ef-2ad7400a71d5" />
 
 
 
 **TABULATION:**
+Voltage across Capacitor:
+<img width="1600" height="1218" alt="image" src="https://github.com/user-attachments/assets/5f3a4036-51a6-404e-ab32-6c4b367e5562" />
 
+Voltage across Inductor:
+<img width="1600" height="1511" alt="image" src="https://github.com/user-attachments/assets/264aa6c9-3dc4-4fcc-ab08-e45a4b84bd55" />
 
-**Calculation:**
+Voltage across Resistor:
+<img width="1600" height="1416" alt="image" src="https://github.com/user-attachments/assets/839b06f8-5ca5-4fe3-8efd-0994cf805fcb" />
+
 
 
 
 **Marksplitup:**
+<img width="1599" height="1395" alt="image" src="https://github.com/user-attachments/assets/4f326393-22be-4ab6-91ee-52692d8c821f" />
+
 
 
 **RESULT:**
